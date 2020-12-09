@@ -1,6 +1,4 @@
-<script>
-  console.log('test')
-</script>
+<script type="text/javascript" src="main.js"></script>
 
 ## Welcome to GitHub Pages
 
