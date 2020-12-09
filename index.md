@@ -1,6 +1,6 @@
-<script type="text/javascript" src="main.js"></script>
-
 <div id="haiku"></div>
+
+<script type="text/javascript" src="main.js"></script>
 
 ## Welcome to GitHub Pages
 
