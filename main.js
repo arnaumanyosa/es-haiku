@@ -166,5 +166,5 @@ const wordsSpanish = {
 
   console.log('HAIKU = ', finalHaiku);
 
-  document.getElementById('haiku').innerHTML += 'finalHaiku';
+  document.getElementById('haiku').innerHTML = finalHaiku;
 })();
